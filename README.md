@@ -124,7 +124,6 @@ npm run dev
 
 Create `.env` file:
 
-env
 SUPABASE_URL=your_url
 SUPABASE_PROJECT_ID=your_id
 SUPABASE_PUBLISHABLE_KEY=your_key
