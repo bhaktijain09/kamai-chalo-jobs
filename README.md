@@ -77,28 +77,29 @@ This platform simplifies it into a direct flow:
 * Reusable UI system (Radix + shadcn)
 
 
+
 ##  Screenshots
 
 ###  Landing Page
+![Landing Page](./screenshots/Landing%20Page.png)
 
-![Landing Page](./screenshots/landing.png)
+###  Login Page
+![Login Page](./screenshots/Login%20Page.png)
+
+###  Signup Page
+![Signup Page](./screenshots/Signup.png)
 
 ###  Job Listings
+![Job Listings](./screenshots/Job%20Listings.png)
 
-![Job Listings](./screenshots/jobs.png)
-
-###  Worker Dashboard
-
-![Worker Dashboard](./screenshots/worker-dashboard.png)
+###  Job Details
+![Job Details](./screenshots/Job%20Details.png)
 
 ###  Employer Dashboard
+![Employer Dashboard](./screenshots/Employers%20Dashboard.png)
 
-![Employer Dashboard](./screenshots/employer-dashboard.png)
-
-###  Job Details + Apply Flow
-
-![Job Details](./screenshots/job-details.png)
-
+###  Job Posting Flow
+![Job Post](./screenshots/Employers%20Job%20Post.png)
 
 
 ##  Folder Structure (Simplified)
