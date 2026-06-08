@@ -105,12 +105,12 @@ This platform simplifies it into a direct flow:
 ##  Folder Structure (Simplified)
 text
 src/
-├── components/        # UI components (shadcn-based)
-├── routes/            # App routes (TanStack Router)
-├── hooks/             # Custom hooks
-├── lib/               # Utilities & helpers
-├── integrations/      # Supabase integration
-└── styles/            # Global styles
+components/        # UI components (shadcn-based)
+routes/            # App routes (TanStack Router)
+hooks/             # Custom hooks
+lib/               # Utilities & helpers
+integrations/      # Supabase integration
+styles/            # Global styles
 
 
 ##  Getting Started Locally
