@@ -81,7 +81,7 @@ This platform simplifies it into a direct flow:
 
 ###  Landing Page
 
-![Landing Page](./screenshots/Landing Page.png)
+![Landing Page](./screenshots/landing.png)
 
 ###  Job Listings
 
